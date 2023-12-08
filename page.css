@@ -1,0 +1,13 @@
+body{
+background-color: aqua;   
+margin: 20%; 
+}
+#top{
+    text-align: center;
+    color: yellow;
+}
+#images{
+    height: 200px;
+    width: 200px;
+    border-radius:50 ;
+}
